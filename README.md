@@ -1,5 +1,7 @@
 This code implements a Convolutional Neural Network (CNN) using TensorFlow and Keras to classify images from the CIFAR-10 dataset, which consists of 60,000 32x32 color images across 10 different classes. Let’s break it down step by step:
 
+![Alt text](result.png)
+
 ### Imports:
 ```python
 import tensorflow as tf
